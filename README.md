@@ -1,6 +1,4 @@
-## NTI - National Telecommunication Institute
-
-
+# CAN_Case
   <div align="center">
   <a href="">
     <img src="https://github.com/ahmedatef1496/NTI_GP_CAN_CASE/blob/main/pic/header.jpg" alt="Logo" width="800" height="400">
@@ -9,8 +7,8 @@
   
 
 ### Team Members
-- Ahmed Atef-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)]() [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)]()
 - Abdelrahman Magdy - [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/abdomagdy957) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman-magdy-4a01bb199/)
+- Ahmed Atef-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)]() [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)]()
 - Hazem Emad-         [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/HardcoreBudget) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hazim-emad-46589a207/)
 - Ahmed Mohammed-     [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/AhmedSheikh0) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)]()
 - Ahmed Magdy-        [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](http://Github.com/AhmedMagdy279) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](http://Linkedin.com/in/ahmed-magdy-dawam)
@@ -38,7 +36,7 @@ The CAR ECU, the muscles of our system, is divided into three key components. Th
 
 
 ## Videos
-- Project Showcase -> [Youtube]()
+- Project Showcase -> (https://www.youtube.com/watch?v=qwrNJoF-X28)
  
 ## System Layout
 ![system_layout](https://github.com/ahmedatef1496/NTI_GP_CAN_CASE/blob/main/pic/design.jpg)
