@@ -1,0 +1,17 @@
+../Src/MCAL/CAN/CAN_Program.c:28:6:CAN_voidInit	4	static
+../Src/MCAL/CAN/CAN_Program.c:106:6:CAN_voidAddTxMsg	24	static
+../Src/MCAL/CAN/CAN_Program.c:165:6:CAN_voidStart	4	static
+../Src/MCAL/CAN/CAN_Program.c:174:6:CAN_voidGetRxMsg	32	static
+../Src/MCAL/CAN/CAN_Program.c:232:4:CAN_voidRXPending	16	static
+../Src/MCAL/CAN/CAN_Program.c:248:6:CAN_voidConfigFilter	24	static
+../Src/MCAL/CAN/CAN_Program.c:337:5:CAN_voidGetErrorCode	4	static
+../Src/MCAL/CAN/CAN_Program.c:368:6:CAN_voidEnableInterrupt	16	static
+../Src/MCAL/CAN/CAN_Program.c:373:6:CAN_voidDisableInterrupt	16	static
+../Src/MCAL/CAN/CAN_Program.c:386:6:CAN_voidTX_Interrupt_Handler	16	static
+../Src/MCAL/CAN/CAN_Program.c:455:6:CAN_voidRX_FIFO0_Interrupt_Handler	24	static
+../Src/MCAL/CAN/CAN_Program.c:507:6:CAN_voidRX_FIFO1_Interrupt_Handler	24	static
+../Src/MCAL/CAN/CAN_Program.c:560:6:CAN_voidSCE_Interrupt_Handler	24	static
+../Src/MCAL/CAN/CAN_Program.c:758:6:USB_HP_CAN1_TX_IRQHandler	8	static
+../Src/MCAL/CAN/CAN_Program.c:762:6:USB_LP_CAN1_RX0_IRQHandler	8	static
+../Src/MCAL/CAN/CAN_Program.c:766:6:CAN1_RX1_IRQHandler	8	static
+../Src/MCAL/CAN/CAN_Program.c:770:6:CAN1_SCE_IRQHandler	8	static

@@ -1,0 +1,2 @@
+Inc/MCAL/TIMER2/TIMER2_Program.o Inc/MCAL/TIMER2/TIMER2_Program.o:  \
+ ../Inc/MCAL/TIMER2/TIMER2_Program.c

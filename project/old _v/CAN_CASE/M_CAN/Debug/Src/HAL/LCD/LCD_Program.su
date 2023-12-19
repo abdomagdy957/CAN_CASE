@@ -1,0 +1,13 @@
+../Src/HAL/LCD/LCD_Program.c:16:13:_delay_ms	24	static,ignoring_inline_asm
+../Src/HAL/LCD/LCD_Program.c:29:6:LCD_voidInit	8	static
+../Src/HAL/LCD/LCD_Program.c:55:6:LCD_voidSendCommand	16	static
+../Src/HAL/LCD/LCD_Program.c:83:6:LCD_voidSendInitCommand	16	static
+../Src/HAL/LCD/LCD_Program.c:98:6:LCD_voidWriteChar	16	static
+../Src/HAL/LCD/LCD_Program.c:125:6:LCD_voidWriteString	24	static
+../Src/HAL/LCD/LCD_Program.c:133:5:IntToString	24	static
+../Src/HAL/LCD/LCD_Program.c:153:6:LCD_voidWriteIntData	40	static
+../Src/HAL/LCD/LCD_Program.c:164:6:LCD_voidWriteFloatData	56	static
+../Src/HAL/LCD/LCD_Program.c:186:6:LCD_voidGoToPosition	24	static
+../Src/HAL/LCD/LCD_Program.c:206:6:LCD_voidClear	16	static
+../Src/HAL/LCD/LCD_Program.c:211:6:LCD_voidClearLine	24	static
+../Src/HAL/LCD/LCD_Program.c:220:6:LCD_voidDisplaySpecialChar	24	static

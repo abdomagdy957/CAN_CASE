@@ -1,0 +1,5 @@
+../Src/MCAL/GPIO/GPIO_Program.c:15:6:GPIO_voidSetPinMode	11
+../Src/MCAL/GPIO/GPIO_Program.c:66:6:GPIO_voidSetPinValue	12
+../Src/MCAL/GPIO/GPIO_Program.c:113:4:GPIO_u8GetPinValue	6
+../Src/MCAL/GPIO/GPIO_Program.c:140:6:GPIO_voidSetPortValue	5
+../Src/MCAL/GPIO/GPIO_Program.c:162:6:GPIO_voidSetPortMode	5

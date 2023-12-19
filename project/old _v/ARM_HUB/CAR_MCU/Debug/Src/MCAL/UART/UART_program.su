@@ -1,0 +1,13 @@
+../Src/MCAL/UART/UART_program.c:11:6:USART_voidInit	16	static
+../Src/MCAL/UART/UART_program.c:57:6:USART_RX_InterruptEnable	16	static
+../Src/MCAL/UART/UART_program.c:61:6:USART_RX_InterruptDisable	16	static
+../Src/MCAL/UART/UART_program.c:66:6:USART_TX_InterruptEnable	16	static
+../Src/MCAL/UART/UART_program.c:70:6:USART_TX_InterruptDisable	16	static
+../Src/MCAL/UART/UART_program.c:75:6:USART_voidTransmitSynch	24	static
+../Src/MCAL/UART/UART_program.c:87:6:USART_voidTransmitCharSynch	16	static
+../Src/MCAL/UART/UART_program.c:94:4:USART_u8ReceiveSynch	24	static
+../Src/MCAL/UART/UART_program.c:117:6:USART1_void_SetCallBack	16	static
+../Src/MCAL/UART/UART_program.c:123:6:USART1_IRQHandler	8	static
+../Src/MCAL/UART/UART_program.c:140:6:USART_ReceiveString	24	static
+../Src/MCAL/UART/UART_program.c:157:4:USART_ReceivePerodic	24	static
+../Src/MCAL/UART/UART_program.c:174:4:USART_ReceiveNoBlock	16	static

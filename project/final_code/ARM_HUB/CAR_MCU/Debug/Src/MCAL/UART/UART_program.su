@@ -1,0 +1,15 @@
+../Src/MCAL/UART/UART_program.c:12:6:USART_voidInit	16	static
+../Src/MCAL/UART/UART_program.c:58:6:USART_RX_InterruptEnable	16	static
+../Src/MCAL/UART/UART_program.c:62:6:USART_RX_InterruptDisable	16	static
+../Src/MCAL/UART/UART_program.c:67:6:USART_TX_InterruptEnable	16	static
+../Src/MCAL/UART/UART_program.c:71:6:USART_TX_InterruptDisable	16	static
+../Src/MCAL/UART/UART_program.c:76:6:USART_voidTransmitSynch	24	static
+../Src/MCAL/UART/UART_program.c:88:6:USART_voidTransmitCharSynch	16	static
+../Src/MCAL/UART/UART_program.c:95:4:USART_u8ReceiveSynch	24	static
+../Src/MCAL/UART/UART_program.c:118:6:USART1_void_SetCallBack	16	static
+../Src/MCAL/UART/UART_program.c:124:6:USART1_IRQHandler	8	static
+../Src/MCAL/UART/UART_program.c:135:6:USART2_void_SetCallBack	16	static
+../Src/MCAL/UART/UART_program.c:141:6:USART2_IRQHandler	8	static
+../Src/MCAL/UART/UART_program.c:155:6:USART_ReceiveString	24	static
+../Src/MCAL/UART/UART_program.c:172:4:USART_ReceivePerodic	24	static
+../Src/MCAL/UART/UART_program.c:189:4:USART_ReceiveNoBlock	16	static

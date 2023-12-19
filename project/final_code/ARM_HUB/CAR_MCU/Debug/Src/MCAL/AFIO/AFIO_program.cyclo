@@ -1,0 +1,2 @@
+../Src/MCAL/AFIO/AFIO_program.c:11:6:AFIO_voidSetEXTIConfiguration	1
+../Src/MCAL/AFIO/AFIO_program.c:24:6:AFIO_voidRemapPeripheralPins	5

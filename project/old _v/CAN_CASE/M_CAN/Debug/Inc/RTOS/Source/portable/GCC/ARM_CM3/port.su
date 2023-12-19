@@ -1,0 +1,11 @@
+../Inc/RTOS/Source/portable/GCC/ARM_CM3/port.c:179:14:pxPortInitialiseStack	24	static
+../Inc/RTOS/Source/portable/GCC/ARM_CM3/port.c:197:13:prvTaskExitError	16	static,ignoring_inline_asm
+../Inc/RTOS/Source/portable/GCC/ARM_CM3/port.c:222:6:SVC_Handler	0	static,ignoring_inline_asm
+../Inc/RTOS/Source/portable/GCC/ARM_CM3/port.c:242:13:prvPortStartFirstTask	0	static,ignoring_inline_asm
+../Inc/RTOS/Source/portable/GCC/ARM_CM3/port.c:262:12:xPortStartScheduler	8	static
+../Inc/RTOS/Source/portable/GCC/ARM_CM3/port.c:358:6:vPortEndScheduler	4	static
+../Inc/RTOS/Source/portable/GCC/ARM_CM3/port.c:366:6:vPortEnterCritical	16	static,ignoring_inline_asm
+../Inc/RTOS/Source/portable/GCC/ARM_CM3/port.c:383:6:vPortExitCritical	16	static,ignoring_inline_asm
+../Inc/RTOS/Source/portable/GCC/ARM_CM3/port.c:394:6:PendSV_Handler	0	static,ignoring_inline_asm
+../Inc/RTOS/Source/portable/GCC/ARM_CM3/port.c:431:6:SysTick_Handler	16	static,ignoring_inline_asm
+../Inc/RTOS/Source/portable/GCC/ARM_CM3/port.c:622:30:vPortSetupTimerInterrupt	4	static
