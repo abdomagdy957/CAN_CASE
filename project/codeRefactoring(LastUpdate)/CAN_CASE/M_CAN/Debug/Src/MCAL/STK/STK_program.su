@@ -1,0 +1,15 @@
+../Src/MCAL/STK/STK_program.c:24:6:STK_voidInit	4	static
+../Src/MCAL/STK/STK_program.c:36:6:STK_voidSetBusyWait	16	static
+../Src/MCAL/STK/STK_program.c:55:7:STK_voidSetIntervalSingle	16	static
+../Src/MCAL/STK/STK_program.c:74:7:STK_voidSetIntervalPeriodic	16	static
+../Src/MCAL/STK/STK_program.c:95:6:STK_voidStopInterval	4	static
+../Src/MCAL/STK/STK_program.c:108:5:STK_u32GetElapedTime	16	static
+../Src/MCAL/STK/STK_program.c:120:5:STK_u32GetRemainingTime	16	static
+../Src/MCAL/STK/STK_program.c:150:6:STK_voidDelay_ms	16	static
+../Src/MCAL/STK/STK_program.c:160:6:STK_voidStartTimer	16	static
+../Src/MCAL/STK/STK_program.c:172:6:overflow_micros	16	static
+../Src/MCAL/STK/STK_program.c:178:6:STK_voidStartMicros	8	static
+../Src/MCAL/STK/STK_program.c:183:5:Micros	24	static
+../Src/MCAL/STK/STK_program.c:190:6:overflow_millis	16	static
+../Src/MCAL/STK/STK_program.c:197:6:STK_voidStartMillis	8	static
+../Src/MCAL/STK/STK_program.c:203:5:Millis	24	static

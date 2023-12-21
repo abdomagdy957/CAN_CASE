@@ -1,0 +1,5 @@
+../Src/MCAL/SPI/SPI_program.c:24:6:MSPI_voidInit	1
+../Src/MCAL/SPI/SPI_program.c:98:6:MSPI_voidSendRecieveSynch	4
+../Src/MCAL/SPI/SPI_program.c:122:6:MSPI_voidSendRecieveASynch	1
+../Src/MCAL/SPI/SPI_program.c:137:6:SPI1_IRQHandler	1
+../Src/MCAL/SPI/SPI_program.c:142:4:MSPI_u8ReadDataISR	1

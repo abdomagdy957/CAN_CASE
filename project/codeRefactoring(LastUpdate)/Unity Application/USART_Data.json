@@ -1,0 +1,82 @@
+{
+    "nodes": [
+        {
+            "identifier": "68D",
+            "dataLengthCode": "3",
+            "tests": [
+                {
+                    "ID": "FRONT",
+                    "command": "READ",
+					"data" : "",
+                    "delay": "3",
+                    "expected": "ON",
+                    "actual": "",
+                    "status": ""
+                },
+                {
+                    "ID": "BACK",
+                    "command": "WRITE",
+					"data" : "1",
+                    "delay": "3",
+                    "expected": "ON",
+                    "actual": "",
+                    "status": ""
+                },
+                {
+                    "ID": "FRONT",
+                    "command": "READ",
+					"data" : "",
+                    "delay": "3",
+                    "expected": "ON",
+                    "actual": "",
+                    "status": ""
+                },
+                {
+                    "ID": "BACK",
+                    "command": "READ",
+					"data" : "",
+                    "delay": "3",
+                    "expected": "ON",
+                    "actual": "",
+                    "status": ""
+                },
+                {
+                    "ID": "FRONT",
+                    "command": "WRITE",
+					"data" : "1",
+                    "delay": "3",
+                    "expected": "ON",
+                    "actual": "",
+                    "status": ""
+                },
+                {
+                    "ID": "BACK",
+                    "command": "WRITE",
+					"data" : "0",
+                    "delay": "3",
+                    "expected": "OFF",
+                    "actual": "",
+                    "status": ""
+                },
+                {
+                    "ID": "FRONT",
+                    "command": "READ",
+					"data" : "",
+                    "delay": "3",
+                    "expected": "ON",
+                    "actual": "",
+                    "status": ""
+                },
+                {
+                    "ID": "FRONT",
+                    "command": "WRITE",
+					"data" : "0",
+                    "delay": "3",
+                    "expected": "OFF",
+                    "actual": "",
+                    "status": ""
+                }
+            ]
+        }
+    ]
+}

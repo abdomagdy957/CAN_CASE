@@ -1,0 +1,9 @@
+../Src/main.c:43:6:Main_voidAppClockInit	8	static
+../Src/main.c:83:6:CAN_TX	32	static
+../Src/main.c:96:6:CAN_RX	64	static
+../Src/main.c:123:5:Std_id_High	16	static
+../Src/main.c:128:6:CAN_FilterConfig	48	static
+../Src/main.c:145:6:USART_RXCallback	8	static
+../Src/main.c:219:5:main	16	static
+../Src/main.c:236:6:vTask_CAN_TX	16	static
+../Src/main.c:259:6:vTask_CAN_RX	16	static
